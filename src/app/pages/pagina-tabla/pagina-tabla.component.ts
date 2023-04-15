@@ -11,6 +11,7 @@ export class PaginaTablaComponent {
 
   }
 RegresarInicio(){
+  //llamada de la ruta para el inicio
   this.rutas.navigate(['inicio']);
 }
 }
